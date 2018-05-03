@@ -1,3 +1,6 @@
+#客户端使用selectclient.py配合成功
+
+
 from twisted.internet import reactor
 from twisted.internet.protocol import Protocol, Factory
 
