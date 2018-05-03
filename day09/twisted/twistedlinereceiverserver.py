@@ -1,4 +1,4 @@
-# 协议使用Linereceiver---TODO 和selectclient.py配合 不成功
+# 协议使用Linereceiver---TODO 和selectclient.py配合 不成功  可以使用telnet
 
 from twisted.internet import reactor
 from twisted.internet.protocol import Factory
